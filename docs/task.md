@@ -1,0 +1,22 @@
+# AI Recommender App Task List
+
+- [x] Initialize Project Structure
+    - [x] Create Vite React App in `recommender-ai`
+    - [x] Install dependencies (TailwindCSS, Framer Motion, Lucide React)
+    - [x] Configure TailwindCSS
+- [x] Implement Core UI Components
+    - [x] Create Layout and Navbar
+    - [x] Build Hero Section with mood selection
+    - [x] Develop Input Form (Mood, Category, Favorite Examples)
+- [x] Develop Recommendation Logic
+    - [x] Create Mock AI Service / API Handler
+    - [x] Implement Recommendation Algorithm (Keyword matching or Mock LLM response)
+- [x] Build Results Page
+    - [x] Display Movie/Series/Book/Anime cards
+    - [x] Add "Save to Watchlist" feature (Local Storage)
+- [x] Polish and Refine
+    - [x] Add animations (Framer Motion)
+    - [x] Ensure Mobile Responsiveness
+- [x] Prepare for Delivery
+    - [x] Refactor code and comments
+    - [x] Create Zip Archive for Manual Upload
